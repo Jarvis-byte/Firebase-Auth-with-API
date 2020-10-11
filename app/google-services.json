@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "166924861439",
+    "firebase_url": "https://money-login-38843.firebaseio.com",
+    "project_id": "money-login-38843",
+    "storage_bucket": "money-login-38843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166924861439:android:2f637f7e62d3ff617271ca",
+        "android_client_info": {
+          "package_name": "com.example.moneypay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166924861439-d0uh6p6ij8l0v4h8gsu940co9nid8vkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClNFzfpxIwfbJ4NfXtKpfkODH9dTkoKh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166924861439-d0uh6p6ij8l0v4h8gsu940co9nid8vkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166924861439:android:3597257515654b297271ca",
+        "android_client_info": {
+          "package_name": "com.mind.loginregisterapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166924861439-d0uh6p6ij8l0v4h8gsu940co9nid8vkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClNFzfpxIwfbJ4NfXtKpfkODH9dTkoKh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166924861439-d0uh6p6ij8l0v4h8gsu940co9nid8vkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
