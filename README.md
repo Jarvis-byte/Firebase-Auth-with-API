@@ -1,5 +1,5 @@
 
-Money Pay
+Firebase-Auth-with-API
 ===================================
 
 This app displays a list of data from the Api 'https://reqres.in/api/users?page=1' into a recycler view , sorted alphabetically.
