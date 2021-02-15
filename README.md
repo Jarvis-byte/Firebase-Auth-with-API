@@ -2,10 +2,9 @@
 Firebase-Auth-with-API
 ===================================
 
-This app displays a list of data from the Api 'https://reqres.in/api/users?page=1' into a recycler view , sorted alphabetically.
+This app displays a list of data from the API 'https://reqres.in/api/users?page=1' into a recycler view, sorted alphabetically.
 
-These has also Firebase Email Authentication and Firebase Realtime Database to verify and store personal informations.
-
+These have also Firebase Email Authentication and Firebase Realtime Database to verify and store personal information.
 
 
 ![Firebase Auth With API demo](20201103_115647.gif)
